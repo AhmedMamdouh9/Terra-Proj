@@ -64,8 +64,7 @@ resource "aws_db_subnet_group" "my_db_subnet_group" {
 }
 ```
 
-![3](https://github.com/user-attachments/assets/a6cb973a-946a-41f4-a5a4-89592ca171da)
-
+![6](https://github.com/user-attachments/assets/2a6451fa-709a-4003-829d-a3771f1b540c)
 
 
 ## Alert
